@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Soulapr
+- 👋 Hi, I’m @Abijay PR
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... all lng
+- 🌱 I’m currently learning ... AI & ML
 - 💞️ I’m looking to collaborate on ... u
 - 📫 How to reach me ... 
 
